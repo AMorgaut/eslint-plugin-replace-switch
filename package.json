@@ -1,0 +1,26 @@
+{
+  "name": "eslint-plugin-replace-switch",
+  "version": "0.1.0",
+  "description": "ESLint plugin to forbid switch and fix it",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMorgaut/eslint-plugin-replace-switch.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "rules",
+    "switch",
+    "no-switch"
+  ],
+  "author": "Alexandre Morgaut (https://github.com/AMorgaut)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMorgaut/eslint-plugin-replace-switch/issues"
+  },
+  "homepage": "https://github.com/AMorgaut/eslint-plugin-replace-switch#readme"
+}
