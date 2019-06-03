@@ -19,7 +19,7 @@ The goal of this one, in addition, is to try **to help you to refactor your code
 ## Install
 
 ```bash
-npm install --save-dev eslint eslint-plugin-no-switch-statements
+npm install --save-dev eslint eslint-plugin-replace-switch
 ```
 
 ## Usage
